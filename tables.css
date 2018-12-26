@@ -1,0 +1,27 @@
+.textbox{
+	width:200px;
+	height: 30px;
+	font-size: 1em;
+	margin-top: 90px;
+	border: #000 1px solid;
+	padding-left: 2px; 
+}
+.button{
+	margin-top: 20px;
+	width:200px;
+	height: 36px;
+	font-size: 1em;
+	background: #bcc6cc;
+	border-radius: 30px;
+	border: #bcc6cc 1px solid;
+}
+.demo
+{
+	font-size: 1em;
+	align-content: center;
+}
+.back{
+	width:500px;
+	height: 250px;
+	margin: 0px 200px 20px 350px; 
+}
